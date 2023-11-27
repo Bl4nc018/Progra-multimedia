@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1854a85b-009a-447b-9fad-eb9806d2dc0d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Doom/final_level.gd" beforeDir="false" afterPath="$PROJECT_DIR$/../Doom/final_level.gd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Doom/global.gd" beforeDir="false" afterPath="$PROJECT_DIR$/../Doom/global.gd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Doom/level_2.gd" beforeDir="false" afterPath="$PROJECT_DIR$/../Doom/level_2.gd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Doom/level_2.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/../Doom/level_2.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Doom/world.gd" beforeDir="false" afterPath="$PROJECT_DIR$/../Doom/world.gd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scoreboard/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/db.sqlite3" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2YkuvzeKZlNoKJok4GUmvl5WObD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Curso 23-24/pmdm/godot/django-backend/scoreboard&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Django server DOOM" type="PythonConfigurationType" factoryName="Python">
+      <module name="django-backend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.11" />
+      <option name="WORKING_DIRECTORY" value="D:\Curso 23-24\pmdm\godot\django-backend\scoreboard" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scoreboard/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1854a85b-009a-447b-9fad-eb9806d2dc0d" name="Changes" comment="" />
+      <created>1701082132831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701082132831</updated>
+    </task>
+    <servers />
+  </component>
+</project>
